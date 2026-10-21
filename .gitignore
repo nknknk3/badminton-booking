@@ -1,0 +1,29 @@
+# 运行时数据与敏感信息
+data/
+logs/
+venue_session.json
+venue_session.json.bak
+venue_session.json.tmp
+config.json
+.ngrok_token
+.env
+.env.*
+!.env.example
+venue_session*.json*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.spec
+_internal/
+*.exe
+*.zip
+runtime/
+
+# 前端
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo

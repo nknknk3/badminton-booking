@@ -1,0 +1,13 @@
+{
+  "_说明": "把这个文件改名为 config.json 即可生效；不需要的项删掉即可。环境变量优先级更高。",
+  "PORT": 8000,
+  "HOST": "127.0.0.1",
+  "OPEN_BROWSER": true,
+  "ACCESS_TOKEN": "",
+  "VENUE_NO": "02",
+  "FIELD_TYPE": "021",
+  "DEFAULT_POLL_INTERVAL": 3.0,
+  "BOOKING_OPEN_LEAD_MINUTES": 150,
+  "MAX_RUNTIME_HOURS": 4.0,
+  "PUSHPLUS_TOKEN": ""
+}
